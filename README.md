@@ -2,7 +2,7 @@
     <br><b>🗄️ PROJECT ARCHIVED, NO LONGER MAINTAINED !!</b><br>
 </p>
 
-<p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://github.com/levina-lab/VeezMusic/raw/main/etc/veezlogo.png"></a></p>
+<p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://github.com/darkphoenix2601/Music_player/blob/main/etc/professor_logo.png"></a></p>
 <p align="center">
     <br><b>Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
@@ -92,7 +92,7 @@
 ## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/veezmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/Music_player)
 
 ## VPS Deployment 📡
 
