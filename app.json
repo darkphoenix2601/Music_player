@@ -1,13 +1,13 @@
 {
     "name": "Veez Music Bot",
-    "logo": "https://telegra.ph/file/9dd9b20abcda2d7bb6725.png",
-    "description": "veez music allow you to stream music trought the telegram voice chat feature.",
+    "logo": "https://telegra.ph/file/a7ca957dfc07340df2d3f.mp4",
+    "description": "professor music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/darkphoenix2601/Music_player",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -41,27 +41,27 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "Professor_Ashu_bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "Professer_Ashu"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/8628c642a266a22effd8c.png"
+            "value": "https://telegra.ph/file/db7e9196316d0a4dfecf8.png"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram username without @",
             "required": false,
-            "value": "dlwrml"
+            "value": "Professer_Ashu"
         },
         "ALIVE_NAME": {
             "description": "fill with the nickname of your telegram account",
             "required": false,
-            "value": "Levina"
+            "value": "Professor"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -83,12 +83,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": "Miss_AkshiV1_Updates"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": "Miss_AkshiV1_Support"
         }
     },
     "addons": [],
